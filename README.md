@@ -1,4 +1,4 @@
-# Email-Automation
+# Email Automation
 
 Update the config.py file with relevant information.
 
